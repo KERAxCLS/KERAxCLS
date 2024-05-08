@@ -4,5 +4,5 @@
 
 management at [sync.bio](https://discord.gg/syncbio)<br>
 
-- ⚙️ I'm working with: `.html`, `.css`, `.lua`, `.nextjs`
+- ⚙️ I'm working with: `.html`, `.css`, `.lua`, `.js`
 - 🌍 You can contact me via discord. (@kera_cls)
