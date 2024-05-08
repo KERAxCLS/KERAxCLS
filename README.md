@@ -4,5 +4,4 @@
 
 management at [sync.bio](https://discord.gg/syncbio)<br>
 - 🌍 You can contact me via discord. (@kera_cls)
-- ⚙️ I'm working with: ´.vue,´ ´.jsx,´ ´.js,´ ´.ts,´ ´.html,´ ´.css,´ ´.lua´
-
+- ⚙️ I'm working with: `.lua`, `.js`, `.html`, `.css`, `.php`, `.mysql`, `.nodejs`
