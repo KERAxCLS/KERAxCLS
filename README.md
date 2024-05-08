@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### i'm kera. a self-taught frontend developer.
+#### i'm kera. a self-taught  developer.
 
 management at [sync.bio](https://discord.gg/syncbio)<br>
 - 🌍 You can contact me via discord. (@kera_cls)
